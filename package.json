@@ -18,7 +18,10 @@
   "homepage": "https://github.com/BugHunterX2025/MicroService#readme",
   "description": "",
   "dependencies": {
+    "cluster": "^0.7.7",
     "express": "^4.21.2",
-    "morgan": "^1.10.0"
+    "express-http-proxy": "^2.1.1",
+    "morgan": "^1.10.0",
+    "os": "^0.1.2"
   }
 }
